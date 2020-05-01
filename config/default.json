@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://vivi1:vivi1@cluster0-aocpo.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken",
+    "githubClientId": "c8db77e9e5b32d834e71",
+    "githubSecret": "bd0394b7d92079cdc408b7a6b877b5fb5aa8f1a9"
+
+}
