@@ -1,6 +1,7 @@
 {
-  "mongoURI": "mongodb+srv://evgeni:evgeni@devconnector-5kefk.mongodb.net/test?retryWrites=true&w=majority",
+  "mongoURI": "mongodb+srv://vivi1:vivi1@cluster0-aocpo.mongodb.net/test?retryWrites=true&w=majority",
   "jwtSecret": "mysecrettoken",
-  "githubClientId": "6281fe594c6dcd685652",
-  "githubSecret": "155f20f2d26c25c0f5ddbe37d64fa08002f359c7"
+  "githubClientId": "c8db77e9e5b32d834e71",
+  "githubSecret": "bd0394b7d92079cdc408b7a6b877b5fb5aa8f1a9"
+
 }
